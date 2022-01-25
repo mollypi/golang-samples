@@ -1,5 +1,7 @@
 # Google Cloud Platform Go Samples
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/3697f49e-443d-4be0-b9d0-2c9bb288cea1.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/golang-samples?orgId=561911742905)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/b94072a7-5920-46f2-992b-9640a52e4ac2.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/golang-samples?orgId=561911742905)  [![Git](https://app.soluble.cloud/api/v1/public/badges/1c60cd16-8729-4d0f-9aef-87fe4241ba9c.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/golang-samples?orgId=561911742905)  
+
 [![Kokoro Build Status][kokoro_badge]][kokoro_link]
 
 This repository holds sample code written in Go that demonstrates the Google
