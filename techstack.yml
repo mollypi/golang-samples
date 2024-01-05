@@ -1,7 +1,8 @@
 repo_name: mollypi/golang-samples
 report_id: 1c01ea532e889802b9013093170c0dce
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T05:31:52+00:00'
+timestamp: '2024-01-05T08:41:46+00:00'
 requested_by: codyoss
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mollypi/golang-samples
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/mollypi/golang-samples
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/mollypi/golang-samples/blob/main/getting-started/devflowapp/data/dastabase_setup.sql
   detection_source: getting-started/devflowapp/data/dastabase_setup.sql
   last_updated_by: Alex Amies
   last_updated_on: 2018-09-07 14:48:04.000000000 Z
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/mollypi/golang-samples/blob/main/run/image-processing/Dockerfile
   detection_source: run/image-processing/Dockerfile
   last_updated_by: Adam Ross
   last_updated_on: 2019-08-29 18:02:16.000000000 Z
@@ -58,7 +63,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
-  detection_source: spanner/go.mod
+  detection_source_url: https://github.com/mollypi/golang-samples/blob/main/go.mod
+  detection_source: go.mod
   last_updated_by: WhiteSource Renovate
   last_updated_on: 2021-10-11 19:00:39.000000000 Z
 - name: gRPC
@@ -70,7 +76,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Remote Procedure Call (RPC)
   image_url: https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png
-  detection_source: spanner/go.mod
+  detection_source_url: https://github.com/mollypi/golang-samples/blob/main/appengine/go11x/warmup/go.mod
+  detection_source: appengine/go11x/warmup/go.mod
   last_updated_by: hazemm96
   last_updated_on: 2020-05-04 19:11:42.000000000 Z
 - name: Google Cloud Storage
@@ -81,7 +88,8 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/694/Cloud_Storage.png
-  detection_source: spanner/go.mod
+  detection_source_url: https://github.com/mollypi/golang-samples/blob/main/appengine/go11x/warmup/go.mod
+  detection_source: appengine/go11x/warmup/go.mod
   last_updated_by: WhiteSource Renovate
   last_updated_on: 2021-10-11 19:00:39.000000000 Z
 - name: MySQL
@@ -92,7 +100,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
-  detection_source: go.mod
+  detection_source_url: https://github.com/mollypi/golang-samples/blob/main/appengine/go11x/cloudsql/go.mod
+  detection_source: appengine/go11x/cloudsql/go.mod
   last_updated_by: hazemm96
   last_updated_on: 2020-05-04 19:11:42.000000000 Z
 - name: Redis
@@ -104,7 +113,8 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
-  detection_source: memorystore/redis/go.mod
+  detection_source_url: https://github.com/mollypi/golang-samples/blob/main/functions/memorystore/redis/go.mod
+  detection_source: functions/memorystore/redis/go.mod
   last_updated_by: WhiteSource Renovate
   last_updated_on: 2021-10-11 19:00:39.000000000 Z
 - name: Docker
@@ -116,6 +126,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/mollypi/golang-samples
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -125,6 +136,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mollypi/golang-samples
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -134,6 +146,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/mollypi/golang-samples/blob/main/.github/workflows/go.yaml
   detection_source: ".github/workflows/go.yaml"
   last_updated_by: Tyler Bui-Palsulich
   last_updated_on: 2021-06-22 13:43:07.000000000 Z
@@ -145,7 +158,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Deployment
   image_url: https://img.stackshare.io/service/9309/PoHJY3K8_400x400.jpg
-  detection_source: testing/docker/cloudbuild.yaml
+  detection_source_url: https://github.com/mollypi/golang-samples/blob/main/functions/ci_cd/cloudbuild.yaml
+  detection_source: functions/ci_cd/cloudbuild.yaml
   last_updated_by: Grant Timmerman
   last_updated_on: 2020-08-11 15:42:45.000000000 Z
 - name: OpenCensus
@@ -157,7 +171,8 @@ tools:
   category: Monitoring
   sub_category: Performance Monitoring
   image_url: https://img.stackshare.io/service/10794/EpBd2Xrw_400x400.jpg
-  detection_source: trace/go.mod
+  detection_source_url: https://github.com/mollypi/golang-samples/blob/main/monitoring/go.mod
+  detection_source: monitoring/go.mod
   last_updated_by: shollyman
   last_updated_on: 2021-06-21 18:53:43.000000000 Z
 - name: CocoaPods
@@ -168,6 +183,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/mollypi/golang-samples/blob/main/run/image-processing/Dockerfile
   detection_source: run/image-processing/Dockerfile
   last_updated_by: Adam Ross
   last_updated_on: 2019-08-29 18:02:16.000000000 Z
@@ -179,7 +195,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/1656/vd4gAekh.png
-  detection_source: run/sigterm-handler/Dockerfile
+  detection_source_url: https://github.com/mollypi/golang-samples/blob/main/appengine/go11x/tasks/handle_task/Dockerfile
+  detection_source: appengine/go11x/tasks/handle_task/Dockerfile
   last_updated_by: Averi Kitsch
   last_updated_on: 2019-04-22 17:13:35.000000000 Z
 - name: Shell
@@ -191,4 +208,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/mollypi/golang-samples
   detection_source: Repo Metadata
